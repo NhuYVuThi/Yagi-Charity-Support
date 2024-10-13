@@ -38,7 +38,7 @@ Power BI: For data visualization and dashboard creation.
 **Analysis and Results**
 ![image](https://github.com/user-attachments/assets/2d457059-ede2-4ed5-b641-3522a1532e50)
 
-_Overview_
+**_Overview_**
 
 Total Donation Amount: 636.3 billion VND, representing the total sum collected so far.
 
@@ -51,7 +51,7 @@ Highest Donation Amount: 2.5 billion VND, pointing to contributions from large d
 Lowest Donation Amount: 1 VND, likely representing symbolic or micro-donations.
 
 
-_Amount Segment_
+**_Amount Segment_**
 
 The number of transactions across different donation segments is displayed here.
 
@@ -61,7 +61,7 @@ While there are only 200 transactions in the 100M+ segment, they make up a signi
 
 This shows that while smaller donations are frequent, large donations have a massive financial impact.
 
-_Transaction and Donation Distribution Over Time _
+**_Transaction and Donation Distribution Over Time _**
 
 The graph tracks both the number of transactions and total donation amount over the course of the event (Sept 7 - Sept 12).
 
@@ -69,7 +69,7 @@ The data indicates a rapid rise in transactions after Sept 9, with both transact
 
 This suggests a surge in support, potentially triggered by heightened media coverage or a critical call to action during this period.
 
-_Donation Distribution by Segment_
+**_Donation Distribution by Segment_**
 
 The pie chart shows donations segmented by donor type (individual, company, collective).
 
@@ -79,7 +79,7 @@ Companies contribute 8.41% (54 billion VND), while collective groups make up 6.6
 
 This highlights that individual contributions are the primary source of support, although companies and groups also play notable roles.
 
-_Transaction List_
+**_Transaction List_**
 
 The transaction list shows detailed records, including the date, donation amount, and description of contributions.
 
